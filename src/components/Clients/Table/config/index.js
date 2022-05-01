@@ -1,0 +1,1 @@
+export const fields = ["Nombre","Apellido","Edad","Fecha de Nacimiento","Fecha de Muerte"]
